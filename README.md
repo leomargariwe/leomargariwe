@@ -6,28 +6,31 @@ I build systems that turn hours of work into seconds by designing specialized AI
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack
 
-| Tech Stack 
-| **AI / ML** | TensorFlow, Agentic Workflows, RAG, YOLO |
-| **Backend & DevOps** | FastAPI, Django, C# .NET / ASP.NET, Spring Boot, Docker |
-| **Data Science** | Pandas, NumPy |
+**AI / ML** 
+TensorFlow, Agentic Workflows, RAG, YOLO 
+
+**Backend & DevOps**
+FastAPI, Django, C# .NET / ASP.NET, Spring Boot, Docker
+
+**Data**
+Pandas, NumPy
 
 ---
 
-### 🚀 Featured Projects
+###Featured Projects
 
-#### 🛡️ Exam Guardian AI
+####Exam Guardian AI
 An AI-enabled proctoring system designed to maintain examination integrity using advanced computer vision and real-time tracking.
 * **Key Features:** *(We will fill these in together later!)*
 * **Tech Stack:** Python, Django, Computer Vision, AI/ML
 
 ---
 
-### 🤝 Connect With Me
-
-* 📧 **Email:** lyomargariwe@gmail.com
-* 💼 **LinkedIn:** Leomar Gariwe
-* 🌐 **Portfolio:** leomargariwe.github.io
+###Connect With Me
+**Email:** lyomargariwe@gmail.com
+**LinkedIn:** Leomar Gariwe
+**Portfolio:** leomargariwe.github.io
 
 ---
