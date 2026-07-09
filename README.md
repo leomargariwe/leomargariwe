@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Leomar
 
-<!--
-**leomargariwe/leomargariwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI Engineer | Full-Stack | Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+I build systems that turn hours of work into seconds by designing specialized AI models and integrating available AIs to boost workflow and productivity—from web apps to scalable ERP software for enterprises. I specialize in Backend and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Tech Stack 
+| **AI / ML** | TensorFlow, Agentic Workflows, RAG, YOLO |
+| **Backend & DevOps** | FastAPI, Django, C# .NET / ASP.NET, Spring Boot, Docker |
+| **Data Science** | Pandas, NumPy |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛡️ Exam Guardian AI
+An AI-enabled proctoring system designed to maintain examination integrity using advanced computer vision and real-time tracking.
+* **Key Features:** *(We will fill these in together later!)*
+* **Tech Stack:** Python, Django, Computer Vision, AI/ML
+
+---
+
+### 🤝 Connect With Me
+
+* 📧 **Email:** lyomargariwe@gmail.com
+* 💼 **LinkedIn:** Leomar Gariwe
+* 🌐 **Portfolio:** leomargariwe.github.io
+
+---
